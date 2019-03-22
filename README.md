@@ -1,2 +1,2 @@
-# notes
-Personal wiki
+# Personal wiki
+Random thoughts organization
